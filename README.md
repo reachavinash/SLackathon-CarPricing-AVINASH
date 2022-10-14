@@ -22,4 +22,4 @@ By building a car pricing model so that auto-manufacturing companies and their m
 
 ### The idea
 
-We can use the previous data and train it in a machine learning model, considering the various independent variables which covariates, through which auto-manufacturing companies can understand the price differnce with respect to indedpendent variables, so it will be easy for them to manupulate the design of cars, or making changes in the business strategies to meet the certain price levels.
+We can use the previous data and train it in a machine learning model, considering the various independent variables which covariates, through which auto-manufacturing companies can understand the price difference with respect to independent variables, so it will be easy for them to manipulate the design of cars, or making changes in the business strategies to meet the certain price levels.
