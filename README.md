@@ -1,27 +1,25 @@
-# SLackathon-CarPricing-AVINASH
+# SLackathon-CarPricing-Avrous2022
 To build a car pricing model so that auto-manufacturing companies and their management can make some changes in the design of the cars, the business strategies and other factors involved accordingly to meet certain price levels.
 
 ## Contents
 
-- [Submission or project name](#submission-or-project-name)
+- [Car Pricing](#submission-or-project-name)
   - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
     - [How can technology help?](#how-can-technology-help)
     - [The idea](#the-idea)
-
+  
 ## Short description
 
 ### What's the problem?
 
-Optimize Supply Chain Inventory
-Super Effectively manage and optimize inventory by capturing variables such as lead times, manufac- turing frequency, batch size, and ordering policies from across the supply chain. Using algo- rithms, exception-based forecasts, and real-time downstream demand signals, suggest and adjust inventories to optimal levels. Maintain the right amount of inventory required to meet demand, keep logistics costs low, and avoid common inventory issues such as stockouts, over- stocking, and backorders.
+Car Pricing
+A fight for supremacy between giant automobile manufacturers and the independent producers and sellers of passenger cars, is in full swing. It has intensified not only competition but also the trend toward monopoly in an industry that, paradoxically, is at once highly competitive and highly concentrated. In this challenge, build a car pricing model so that auto-manufacturing companies can accordingly manipulate the design of the cars, the business strategy, etc. to meet certain price levels.
 
 ### How can technology help?
-Optimize supply chain inventory - Technology to optimize supply chain inventory and to help quickly choose the best manufacturing plants to optimize inventory and minimize cost.
+By building a car pricing model so that auto-manufacturing companies and their management can make some changes in the design of the cars, the business strategies and other factors involved accordingly to meet certain price levels.
 
 ### The idea
 
-Using historical demand data to train a machine learning model, you can predict demand for certain items more accurately in the future, and ensure that your customers are able to purchase what they want. 
-
-Using this predicted demand as input, along with manufacturing plant data such as cost and capacity, this application enables a store manager to quickly choose the best manufacturing plants to optimize inventory and minimize cost.
+We can use the previous data and train it in a machine learning model, considering the various independent variables which covariates, through which auto-manufacturing companies can understand the price differnce with respect to indedpendent variables, so it will be easy for them to manupulate the design of cars, or making changes in the business strategies to meet the certain price levels.
